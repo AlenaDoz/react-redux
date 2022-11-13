@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alenadoz-REACT2022Q3/static/css/main.5ca769c7.css",
+    "main.js": "/alenadoz-REACT2022Q3/static/js/main.2cca4f3e.js",
+    "index.html": "/alenadoz-REACT2022Q3/index.html",
+    "main.5ca769c7.css.map": "/alenadoz-REACT2022Q3/static/css/main.5ca769c7.css.map",
+    "main.2cca4f3e.js.map": "/alenadoz-REACT2022Q3/static/js/main.2cca4f3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ca769c7.css",
+    "static/js/main.2cca4f3e.js"
+  ]
+}
